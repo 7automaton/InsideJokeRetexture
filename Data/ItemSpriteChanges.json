@@ -1,0 +1,32 @@
+{
+    "Changes": [
+
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "Assets/ItemChanges/ChaosEmerald.png",
+            "ToArea": {
+                "X": 288,
+                "Y": 560,
+                "Width": 16,
+                "Height": 16
+            },
+            "LogName": "Qi Gem -> Chaos Emerald Sprite Patch"
+        },
+
+
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "Assets/ItemChanges/BrownMushroom.png",
+            "ToArea": {
+                "X": 320,
+                "Y": 256,
+                "Width": 16,
+                "Height": 16
+            },
+            "LogName": "Common Mushroom Sprite Patch"
+        }
+
+    ]
+}

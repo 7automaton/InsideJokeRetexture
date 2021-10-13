@@ -1,0 +1,17 @@
+{
+    "Format": "1.23.0",
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "Data/DataChanges.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "Data/ItemSpriteChanges.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "Data/MapChanges.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Name": "Funny Inside Jokes",
+    "Author": "7automaton",
+    "Version": "1.0.0",
+    "Description": "Lots of little references to really dumb jokes I make in SDV.",
+    "UniqueID": "7automaton.FunnyInsideJokes",
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    },
+    "Dependencies": [
+        {
+          "UniqueID": "spacechase0.GenericModConfigMenu",
+          "IsRequired": false
+        }
+    ],
+    "UpdateKeys": [
+        "Nexus:",
+        "GitHub:7automaton/FunnyInsideJokes"
+    ]
+}

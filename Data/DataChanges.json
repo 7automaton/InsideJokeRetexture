@@ -1,0 +1,171 @@
+{
+    "Changes": [
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "858": {
+                    "4": "Chaos Emerald",
+                    "5": "Not a soul should have this sort of power..."
+                }
+            },
+            "LogName": "Qi Gem -> Chaos Emerald Name and Description"
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "404": {
+                    "5": "Slightly nutty, with good texture. Great snack for the mines."
+                }
+            },
+            "LogName": "Common Mushroom Name and Description"
+        },
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "454": {
+                    "4": "Money Fruit",
+                    "5": "Keg this fruit to make the good bucks."
+                }
+            },
+            "LogName": "Ancient Fruit Funny Name and Description"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "114": {
+                    "4": "Money Seed",
+                    "5": "It's a dry old seed from some ancient plant. By all appearances it's long since dead... But actually, it's alive, and it will make you millions of money someday."
+                }
+            },
+            "LogName": "Ancient Seed (Item) Funny Name and Description"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "499": {
+                    "4": "Money Seeds",
+                    "5": "Could these still grow? Let me answer that with a question: would you like to [Get Rich Quick]?"
+                }
+            },
+            "LogName": "Ancient Seeds (Item) Funny Name and Description"
+        },
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "417": {
+                    "4": "Super Money Fruit"
+                }
+            },
+            "LogName": "Sweet Gem Berry Funny Name and Description"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "347": {
+                    "4": "Super Money Seed"
+                }
+            },
+            "LogName": "Sweet Gem Berry Funny Name and Description"
+        },
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "348": {
+                    "4": "Money Drink",
+                    "5": "Sell this drink to make the good bucks."
+                }
+            },
+            "LogName": "Wine Funny Name and Description"
+        },
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "170": {
+                    "4": "Broken Glasses",
+                    "5": "Linus Tech Tips' LTTStore Merchandise. A broken replica of Linus Torvald's glasses."
+                }
+            },
+            "LogName": "Broken Glasses' New Description Patch"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "171": {
+                    "4": "Broken DVD",
+                    "5": "Linus Tech Tips' LTTStore Merchandise. It's a LinusOS disk image. The ruins of a failed Kickstarter campaign."
+                }
+            },
+            "LogName": "Broken DVD's New Description Patch"
+        },
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "74": {
+                    "5": "Gunther doesn't know much about this item."
+                }
+            },
+            "LogName": "Prismatic Shard Troll Description"
+        },
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "403": {
+                    "5": "A quick snack to fuel the hungry forager. Yummy trash food."
+                }
+            },
+            "LogName": "Field Snack Description"
+        },
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "128": {
+                    "5": "Inflates when threatened... The question is, why does it keep running away from you?"
+                }
+            },
+            "LogName": "Pufferfish Frustration Description"
+        },
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/weapons",
+            "Fields": {
+                "4": {
+                    "1": "It's unlike anything you've ever seen. It makes you wonder how you didn't get it earlier."
+                }
+            },
+            "LogName": "Galaxy Sword Description"
+        }
+
+    ]
+}

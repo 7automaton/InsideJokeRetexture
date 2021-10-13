@@ -1,0 +1,34 @@
+{
+    "Changes": [
+
+        {
+            "Action": "EditImage",
+            "Target": "Maps/submarine_tilesheet",
+            "FromFile": "Assets/MapChanges/do-not-swim-warning.png",
+            "ToArea": {
+                "X": 143,
+                "Y": 89,
+                "Width": 161,
+                "Height": 7
+            },
+            "PatchMode": "Overlay",
+            "LogName": "Submarine Warning"
+        },
+
+
+        {
+            "Action": "EditImage",
+            "Target": "Maps/qiNutRoom_tilesheet",
+            "FromFile": "Assets/MapChanges/qiRoomChaosEmeralds.png",
+            "ToArea": {
+                "X": 128,
+                "Y": 16,
+                "Width": 96,
+                "Height": 128
+            },
+            "PatchMode": "Overlay",
+            "LogName": "Qi Walnut Room Shop -> Chaos Emerald Shop"
+        }
+
+    ]
+}

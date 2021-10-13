@@ -1,0 +1,13 @@
+{
+    "Action": "",
+    "Target": "",
+    "FromFile": "",
+    "ToArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 0,
+        "Height": 0
+    },
+    "PatchMode": "Overlay",
+    "LogName": ""
+}
