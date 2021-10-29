@@ -25,6 +25,17 @@
             "LogName": "Common Mushroom Name and Description"
         },
 
+                {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "420": {
+                    "5": "WARNING: Does not actually allow you to grow.  The italian plumber lied."
+                }
+            },
+            "LogName": "Red Mushroom Name and Description"
+        },
+
 
         {
             "Action": "EditData",
